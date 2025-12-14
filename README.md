@@ -23,6 +23,8 @@ Iris Flower Dataset (Kaggle).
 
 ## Results
 The model achieved good accuracy in classifying all three Iris species.
+<img width="880" height="818" alt="pairplot" src="https://github.com/user-attachments/assets/7c070b5d-c083-4e10-8304-548b5b2f14e7" />
+
 
 ## Conclusion
 This project demonstrates basic data analysis, visualization, and machine learning classification skills.
